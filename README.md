@@ -126,9 +126,46 @@ CALL SECUREINSIGHTS_CLEANROOM.ANALYTICS.DETECT_ANOMALIES();
 
 Watch our 3-minute demo showcasing the complete solution:
 
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red)](https://your-demo-link.com)
+[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red)](https://www.youtube.com/watch?v=sZ94scpOFf4)
 
 *Demo script available in [`docs/demo_script.md`](docs/demo_script.md)*
+
+---
+
+## 🔄 Process Flow
+
+### Primary Use Case Flow
+
+```
+1. DATA INGESTION
+   Bank | Insurance | Government
+   ↓
+   Private Snowflake Tables
+
+2. CLEAN ROOM PROCESSING
+   Aggregated Views (10+)
+   Cross-Org Joins (Demo only)
+   Risk Scoring + Privacy
+   ↓
+3. ANALYTICS EXECUTION
+   Ethical Playbook
+   Queries (Aggregated only) ──→ Audit Logs ──→ Safe Results
+
+4. AI INSIGHT GENERATION
+   Cortex AI ──→ Explanations
+   Recommendations ──→ Dashboard
+
+5. MONITORING & ALERTS
+   Anomaly Detection
+   Risk Monitoring
+   Alerts ──→ Stakeholders
+```
+
+### Key Use Cases
+- **Compliance Officer**: Reviews audit logs for regulatory compliance
+- **Policy Maker**: Accesses bias detection reports for fair allocation
+- **Risk Analyst**: Investigates cross-sector fraud patterns
+- **Executive**: Views social impact metrics and ROI
 
 ---
 

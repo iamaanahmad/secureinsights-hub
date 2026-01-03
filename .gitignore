@@ -1,6 +1,9 @@
 # Hackathon planning files - not for public repo
 hackathon/
 
+# Kiro AI assistant files - workspace specific
+.kiro/
+
 # Python cache
 __pycache__/
 *.pyc
