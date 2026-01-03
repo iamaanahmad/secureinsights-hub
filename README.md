@@ -6,7 +6,6 @@
 [![AI for Good](https://img.shields.io/badge/AI%20for%20Good-Hackathon-green)](https://www.snowflake.com/en/data-cloud/workloads/ai/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Winner Solution for Snowflake "AI for Good" Hackathon 2025**  
 > Solving the "Privacy-Safe Cross-Company Insights" challenge
 
 ---
