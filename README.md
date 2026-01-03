@@ -127,9 +127,6 @@ CALL SECUREINSIGHTS_CLEANROOM.ANALYTICS.DETECT_ANOMALIES();
 Watch our 3-minute demo showcasing the complete solution:
 
 [![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red)](https://www.youtube.com/watch?v=sZ94scpOFf4)
-
-*Demo script available in [`docs/demo_script.md`](docs/demo_script.md)*
-
 ---
 
 ## 🔄 Process Flow
@@ -264,7 +261,7 @@ This project was built for the Snowflake AI for Good Hackathon. For questions or
 
 - **Email**: [asharamaan234@gmail.com]
 - **LinkedIn**: [linkedin.com/in/iamaanshaikh]
-- **Demo**: [Link to recorded demo]
+- **Streamlit Live App**: [https://app.snowflake.com/zvdjhjo/zo56389/#/streamlit-apps/SECUREINSIGHTS.PUBLIC.SQV08E_7C0G_8OJE]
 
 ---
 
